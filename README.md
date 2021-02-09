@@ -4,4 +4,7 @@ Shiny dashboard developed using the [Marine data](https://drive.google.com/file/
 
 Feel free to use my code or make changes as you wish.
 
+Here is the link to live app at [shinyapp.io](https://www.shinyapps.io/):
+https://mq21.shinyapps.io/ship_explorer/
+
 Happy coding!!!
